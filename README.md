@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/richLpf/docker-usage.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+docker入门
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+docker-compose 实践
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+docker　部署项目案例
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+docker 部署gitbook
 
-1. Numbered
-2. List
+docker 部署vue
 
-**Bold** and _Italic_ and `Code` text
+docker 部署react
 
-[Link](url) and ![Image](src)
-```
+docker 部署go
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+docker 部署node
 
-### Jekyll Themes
+docker 部署python项目
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richLpf/docker-usage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+docker 部署mongo
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+第一章： docker基础
+
+第二章： docker实践
+
+第三章： docker-compose实践
+
+第四章： docker案例
+
+第五章： docker练习
+
+
+
+项目部署:
+
+- npm/cnpm install -g gitbook 
+- gitbook init
+- gitbook serve
+
+注：想换工作吗? 知名公司给你内推，简历发送我的邮箱，lvpfhappy@qq.com
