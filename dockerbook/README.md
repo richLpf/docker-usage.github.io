@@ -43,3 +43,18 @@ docker 部署mongo
 - gitbook serve
 
 注：想换工作吗? 知名公司给你内推，简历发送我的邮箱，lvpfhappy@qq.com
+
+
+
+# 项目说明
+
+这里是docker个人的相关总结文章。具体的项目是dockerbook中
+
+git pull
+
+cd dockerbook
+
+cnpm i
+
+
+本地运行gitbook项目
