@@ -1,4 +1,6 @@
-一、[镜像仓库](https://hub.docker.com/)
+一、镜像
+
+> 建议注册docker仓库账号，后面要使用。[仓库地址](https://hub.docker.com/)
 
 __nginx__
 
